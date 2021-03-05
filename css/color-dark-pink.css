@@ -1,0 +1,31 @@
+.post-more .more-link:hover,
+.symp-btn:hover,
+.process:hover > .number,
+.pricing-table > .table-btn:hover,
+.service > .icon,
+.hobby > .icon,
+.timeline > li:not(.timeline-header):before,
+.footer-social > li > a:hover,
+.process > .number > span:after,
+.testimonials-slider .owl-controls > .owl-pagination > .owl-page.active > span,
+.testimonials-slider .owl-controls > .owl-pagination > .owl-page:hover > span,
+.close-btn > span:before{
+	background:#A53860;
+}
+.sidebar-list > li > a:hover,
+.post .read-more:hover,
+.post > .content > h4 > a:hover,
+.process > .number,
+.skill > h4,
+.front-person-links > ul > li > a:hover{
+	color:#A53860;
+}
+.testimonials-slider .owl-controls > .owl-pagination > .owl-page > span,
+.form-control:focus,
+.process.last > .number > span:before,
+.process > .number{
+	border-color:#A53860;
+}
+.process > .number > span:before{
+	border-left-color:#A53860;
+}
